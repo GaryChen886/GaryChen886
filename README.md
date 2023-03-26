@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there</h1>
 <h3 align="center">I'm Gary, currently a junior in NCKU CSIE.</h3>
 <h3 align="center">Research interests lies in the field of very VLSI design and EDA.</h3>
 <p align="left">
